@@ -3,7 +3,7 @@
 Project Overview
 This project analyzes Blinkit grocery sales data using Python. The objective is to extract meaningful business insights, clean raw data, and visualize key performance indicators to support data-driven decision-making.
 
-*Objectives*
+## *Objectives*
 
 -Perform data cleaning and preprocessing
 
