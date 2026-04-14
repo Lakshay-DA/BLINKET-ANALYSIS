@@ -118,7 +118,7 @@ Sales by Outlet Size
 
 
 
-*Insights*
+# *Insights*
 
 
 1.Certain item types generate higher revenue than others
