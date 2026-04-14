@@ -15,7 +15,7 @@ This project analyzes Blinkit grocery sales data using Python. The objective is 
 
 
 
-*Tech Stack*
+## *Tech Stack*
 
 -Python
 
